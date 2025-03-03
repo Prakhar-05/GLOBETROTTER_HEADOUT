@@ -5,24 +5,24 @@ FROM python:3.10-slim
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
-# Set the working directory
+# Set the working directory inside the container
 WORKDIR /app
 
-# Copy and install dependencies
+# Install system dependencies (optional but useful for some packages)
+RUN apt-get update && apt-get install -y build-essential libpq-dev && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies in a virtual environment
 COPY requirements.txt /app/
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Copy everything from the root directory to /app (this keeps all files)
+# Copy project files after installing dependencies
 COPY . /app/
 
-# Set working directory to where manage.py is located
-WORKDIR /app/backend/globetrotter_project
+# Collect static files
+RUN python backend/globetrotter_project/manage.py collectstatic --noinput
 
 # Expose port 8000 for Django
 EXPOSE 8000
 
-# Collect static files
-RUN python manage.py collectstatic --noinput
+CMD ["sh", "-c", "python backend/globetrotter_project/manage.py migrate && gunicorn --chdir backend/globetrotter_project --bind 0.0.0.0:8000 globetrotter_project.wsgi:application"]
 
-# Run migrations and start Django server
-CMD ["sh", "-c", "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"]
