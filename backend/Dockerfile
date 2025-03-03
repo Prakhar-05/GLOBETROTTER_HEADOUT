@@ -18,5 +18,8 @@ COPY . /app/
 # Expose port 8000 for the Django development server
 EXPOSE 8000
 
+# Run collectstatic (this collects all static files into STATIC_ROOT)
+RUN python manage.py collectstatic --noinput
+
 # Run migrations and start the Django development server
 CMD ["sh", "-c", "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"]

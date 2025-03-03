@@ -12,20 +12,21 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 from pathlib import Path
 import os
+from dotenv import load_dotenv  # <-- Import load_dotenv
 
-# Define the base directory using pathlib.
+load_dotenv()  # <-- Load environment variables from .env
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
-
-# SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-tyem$c*y9xd1_wzysn0vg_+y^+4de1$&x7$s#h5c#gu#!c=b&*'
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+# Set DEBUG from environment variable
+DEBUG = os.getenv('DEBUG', 'True') == 'True'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', '127.0.0.1,localhost').split(',')
+
+
+
 
 
 # Application definition
@@ -132,7 +133,13 @@ STATICFILES_DIRS = [
     str(BASE_DIR / 'game' / 'static'),
 ]
 
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+
+

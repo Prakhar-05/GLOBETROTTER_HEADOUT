@@ -7,7 +7,7 @@
   <title>Globetrotter Challenge</title>
   <!-- Import Roboto from Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{% static 'game/style.css' %}">
+  <link rel="stylesheet" href="{% static 'game/css/style.css' %}">
   <!-- Canvas-confetti for correct answer animation -->
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 </head>
@@ -54,6 +54,6 @@
   
   <!-- Embed JSON data from view -->
   <script id="destinations-data" type="application/json">{{ destinations_json|safe }}</script>
-  <script src="{% static 'game/app.js' %}"></script>
+  <script src="{% static 'game/js/app.js' %}"></script>
 </body>
 </html>
