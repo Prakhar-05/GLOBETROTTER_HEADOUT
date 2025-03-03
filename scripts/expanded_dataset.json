@@ -1,0 +1,1682 @@
+[
+  {
+    "city": "Paris",
+    "country": "France",
+    "clues": [
+      "Eiffel Tower",
+      "Louvre Museum"
+    ],
+    "fun_fact": "Paris is also known as the 'City of Light' due to its early adoption of street lighting.",
+    "trivia": [
+      "The Louvre Museum is the largest art museum in the world.",
+      "Paris has more Michelin-starred restaurants than any other city."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxQYXJpc3xlbnwwfHx8fDE3NDA5ODM4NTB8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "New York",
+    "country": "United States",
+    "clues": [
+      "Empire State Building",
+      "Central Park"
+    ],
+    "fun_fact": "New York City is made up of 5 boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island",
+    "trivia": [
+      "The Statue of Liberty was a gift from France",
+      "New York City is known as the city that never sleeps"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1500916434205-0c77489c6cf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrfGVufDB8fHx8MTc0MDk4Mzg1MXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "clues": [
+      "Home to the iconic Tokyo Tower",
+      "Known for its bustling street markets"
+    ],
+    "fun_fact": "Tokyo is the most populous metropolitan area in the world",
+    "trivia": [
+      "Tokyo was originally known as Edo",
+      "The city hosted the Summer Olympics in 1964 and will host again in 2020 (postponed to 2021)"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxUb2t5b3xlbnwwfHx8fDE3NDA5ODM4NTB8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Los Angeles",
+    "country": "United States",
+    "clues": [
+      "Hollywood Sign",
+      "Santa Monica Pier"
+    ],
+    "fun_fact": "Los Angeles is the entertainment capital of the world.",
+    "trivia": [
+      "Los Angeles is home to the largest film and television industry in the world.",
+      "The city's official flower is the Bird of Paradise."
+    ],
+    "image_url": "https://images.unsplash.com/flagged/photo-1575555201693-7cd442b8023f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxMb3MlMjBBbmdlbGVzfGVufDB8fHx8MTc0MDk4NDE3NXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "clues": [
+      "Christ the Redeemer statue",
+      "Copacabana beach"
+    ],
+    "fun_fact": "Rio de Janeiro was the capital of Brazil until 1960",
+    "trivia": [
+      "Rio de Janeiro is known for its annual carnival festival",
+      "The city hosted the 2016 Summer Olympics"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxSaW8lMjBkZSUyMEphbmVpcm98ZW58MHx8fHwxNzQwOTg0MTc1fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "clues": [
+      "Sagrada Familia",
+      "Park Guell"
+    ],
+    "fun_fact": "Barcelona is home to the largest football stadium in Europe, Camp Nou",
+    "trivia": [
+      "Barcelona hosted the 1992 Summer Olympics",
+      "The city is known for its unique Catalan architecture"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1583422409516-2895a77efded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxCYXJjZWxvbmF8ZW58MHx8fHwxNzQwOTg0MTc1fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "Table Mountain",
+      "Robben Island"
+    ],
+    "fun_fact": "Cape Town is known for its diverse culture and stunning natural landscapes.",
+    "trivia": [
+      "Cape Town is one of the most multicultural cities in the world.",
+      "It is the legislative capital of South Africa."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxDYXBlJTIwVG93bnxlbnwwfHx8fDE3NDA5ODQxNzV8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "Sydney Opera House",
+      "Sydney Harbour Bridge"
+    ],
+    "fun_fact": "Sydney is home to the world's largest film festival",
+    "trivia": [
+      "Sydney is known for its beautiful beaches",
+      "Sydney's official language is English"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTeWRuZXl8ZW58MHx8fHwxNzQwOTg0MTc1fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "clues": [
+      "Big Ben",
+      "London Eye"
+    ],
+    "fun_fact": "London is home to over 170 museums",
+    "trivia": [
+      "The River Thames flows through London",
+      "The London Underground is the oldest underground railway network in the world"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxMb25kb258ZW58MHx8fHwxNzQwOTg0MTc2fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "clues": [
+      "Tallest building in the world - Burj Khalifa",
+      "Man-made islands - Palm Jumeirah"
+    ],
+    "fun_fact": "Dubai is home to the world's only 7-star hotel - Burj Al Arab",
+    "trivia": [
+      "Dubai's economy relies heavily on tourism and real estate",
+      "The Dubai Mall is one of the largest shopping malls in the world"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1518684079-3c830dcef090?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxEdWJhaXxlbnwwfHx8fDE3NDA5ODQxNzZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "Famous for its historical landmarks like the Brandenburg Gate",
+      "Has a vibrant art and music scene"
+    ],
+    "fun_fact": "Berlin has more bridges than Venice",
+    "trivia": [
+      "Berlin is 9 times bigger than Paris",
+      "The Berlin Wall fell in 1989"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxCZXJsaW58ZW58MHx8fHwxNzQwOTg0MTc2fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "Gardens by the Bay",
+      "Marina Bay Sands"
+    ],
+    "fun_fact": "Singapore is one of only three surviving city-states in the world.",
+    "trivia": [
+      "Singapore is known as the Garden City for its abundance of green spaces.",
+      "Chewing gum is banned in Singapore."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTaW5nYXBvcmV8ZW58MHx8fHwxNzQwOTg0MTc3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "Colosseum",
+      "Trevi Fountain"
+    ],
+    "fun_fact": "Rome was founded in 753 BC and is one of the oldest continuously occupied cities in Europe.",
+    "trivia": [
+      "Rome is known as the 'Eternal City'",
+      "The Vatican City, an independent city-state enclaved within Rome, is the headquarters of the Roman Catholic Church."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxSb21lfGVufDB8fHx8MTc0MDk4NDE3N3ww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "Royal Palace",
+      "Prado Museum"
+    ],
+    "fun_fact": "Madrid is the highest capital city in Europe",
+    "trivia": [
+      "Madrid is known for its vibrant nightlife",
+      "The name Madrid comes from the Arabic 'magerit' which means 'place of many streams'"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1570698473651-b2de99bae12f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNYWRyaWR8ZW58MHx8fHwxNzQwOTg0MTc3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "Famous for its canals",
+      "Home to the Anne Frank House"
+    ],
+    "fun_fact": "Amsterdam has more bicycles than residents",
+    "trivia": [
+      "The city has over 1,500 bridges",
+      "Amsterdam is built on wooden piles driven into the ground"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxBbXN0ZXJkYW18ZW58MHx8fHwxNzQwOTg0MTc3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "It is the only city in the world that straddles two continents (Europe and Asia)",
+      "It was formerly known as Byzantium and Constantinople"
+    ],
+    "fun_fact": "Istanbul is the largest city in Turkey and is known for its rich history, stunning architecture, and vibrant culture.",
+    "trivia": [
+      "Istanbul is home to the famous Hagia Sophia and Blue Mosque",
+      "The Grand Bazaar in Istanbul is one of the oldest and largest covered markets in the world"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxJc3RhbmJ1bHxlbnwwfHx8fDE3NDA5ODQxNzd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "Grand Palace",
+      "Wat Arun"
+    ],
+    "fun_fact": "Bangkok is known for its vibrant street food scene and floating markets.",
+    "trivia": [
+      "Bangkok is also called the 'City of Angels'",
+      "The official name of Bangkok is the longest city name in the world with 168 characters"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxCYW5na29rfGVufDB8fHx8MTc0MDk4NDE3N3ww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "clues": [
+      "Home to famous Renaissance art and architecture",
+      "Located in the Tuscany region"
+    ],
+    "fun_fact": "Florence was the birthplace of the Italian Renaissance",
+    "trivia": [
+      "The city's historic center is a UNESCO World Heritage Site",
+      "It is known for its delicious cuisine and wines"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1543429257-3eb0b65d9c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxGbG9yZW5jZXxlbnwwfHx8fDE3NDA5ODQxNzd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "Palaces",
+      "Kimchi"
+    ],
+    "fun_fact": "Seoul is home to the world's largest indoor amusement park",
+    "trivia": [
+      "Seoul hosted the Summer Olympics in 1988",
+      "The city has a vibrant K-pop music scene"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1538485399081-7191377e8241?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTZW91bHxlbnwwfHx8fDE3NDA5ODQxNzd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "clues": [
+      "Gondolas",
+      "Floating City"
+    ],
+    "fun_fact": "Venice is built on 118 small islands separated by canals and linked by bridges.",
+    "trivia": [
+      "Venice is known for its annual Carnival celebration",
+      "The city is sinking at a rate of 1-2 millimeters per year"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1558271736-cd043ef2e855?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxWZW5pY2V8ZW58MHx8fHwxNzQwOTg0MTc3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "Home to the famous Vienna Philharmonic Orchestra",
+      "Known for its coffeehouse culture"
+    ],
+    "fun_fact": "Vienna is known as the City of Music",
+    "trivia": [
+      "The Sachertorte, a famous Viennese chocolate cake, was invented in 1832",
+      "Vienna is home to the world's oldest zoo, the Tiergarten Sch\u00f6nbrunn"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxWaWVubmF8ZW58MHx8fHwxNzQwODU2NzU5fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Munich",
+    "country": "Germany",
+    "clues": [
+      "Home to the famous Oktoberfest festival",
+      "Has stunning architectural landmarks like Neues Rathaus"
+    ],
+    "fun_fact": "Munich is known for its beer culture and is home to many breweries",
+    "trivia": [
+      "Munich is the third-largest city in Germany",
+      "The city has a strong economy and is a hub for technology and research"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1595867818082-083862f3d630?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNdW5pY2h8ZW58MHx8fHwxNzQwOTg0MTc4fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "Known for its stunning architecture",
+      "Home to the famous Charles Bridge"
+    ],
+    "fun_fact": "Prague is often referred to as the 'City of a Hundred Spires' due to its many church towers and spires.",
+    "trivia": [
+      "Prague Castle is the largest ancient castle in the world",
+      "Prague has a rich history dating back over a thousand years"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxQcmFndWV8ZW58MHx8fHwxNzQwOTg0MTc4fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "clues": [
+      "Home to the famous fashion district",
+      "Known for its stunning cathedral, the Duomo di Milano"
+    ],
+    "fun_fact": "Milan is considered the financial hub of Italy",
+    "trivia": [
+      "Leonardo da Vinci's iconic painting, The Last Supper, can be found in Milan",
+      "Milan is home to one of the oldest shopping malls in the world, the Galleria Vittorio Emanuele II"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1610016302534-6f67f1c968d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNaWxhbnxlbnwwfHx8fDE3NDA5ODQxNzl8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "Home to the Acropolis and Parthenon",
+      "Birthplace of democracy"
+    ],
+    "fun_fact": "The city is named after the goddess Athena, who won a competition against Poseidon to become the city's patron deity",
+    "trivia": [
+      "The first modern Olympic Games were held in Athens in 1896",
+      "Athens is one of the oldest cities in the world, with recorded history dating back over 3,400 years"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1555993539-1732b0258235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxBdGhlbnN8ZW58MHx8fHwxNzQwOTg0MTc5fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "Home to the famous Guinness Storehouse",
+      "Has a vibrant street art scene"
+    ],
+    "fun_fact": "Dublin is home to the oldest pub in Ireland, The Brazen Head, which dates back to 1198.",
+    "trivia": [
+      "Dublin was originally founded by Vikings in the 9th century",
+      "The city's name 'Dublin' is derived from the Irish word 'Dubh Linn' which means 'black pool'."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "Famous for its historic architecture",
+      "Located on the Atlantic Ocean"
+    ],
+    "fun_fact": "Lisbon is one of the oldest cities in the world, predating other European capitals such as Rome, Paris, and London.",
+    "trivia": [
+      "The city is known for its traditional Portuguese custard tarts called Past\u00e9is de Nata",
+      "Lisbon is one of the sunniest cities in Europe"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxMaXNib258ZW58MHx8fHwxNzQwOTg0MTc5fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "Known for its tango dance",
+      "Home to colorful neighborhoods like La Boca"
+    ],
+    "fun_fact": "Buenos Aires has the highest concentration of theatres in the world",
+    "trivia": [
+      "The city's name means 'fair winds' in Spanish",
+      "Buenos Aires is the capital and largest city of Argentina"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxCdWVub3MlMjBBaXJlc3xlbnwwfHx8fDE3NDA5ODQxNzl8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "clues": [
+      "Forbidden City",
+      "Great Wall of China"
+    ],
+    "fun_fact": "Beijing is one of the oldest cities in the world, with a history dating back over 3,000 years.",
+    "trivia": [
+      "Beijing was known as Peking in the past",
+      "The city hosted the 2008 Summer Olympics"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1599571234909-29ed5d1321d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxCZWlqaW5nfGVufDB8fHx8MTc0MDk4NDE3OXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "clues": [
+      "The Bund is a famous waterfront area in Shanghai",
+      "Shanghai is known for its skyscrapers and modern architecture"
+    ],
+    "fun_fact": "Shanghai is home to the world's second-tallest tower, the Shanghai Tower",
+    "trivia": [
+      "Shanghai is the largest city in China by population",
+      "The city hosted the 2010 World Expo"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1545893835-abaa50cbe628?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTaGFuZ2hhaXxlbnwwfHx8fDE3NDA4NTY3Njh8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "Home to the famous Giza Pyramids",
+      "Located along the Nile River"
+    ],
+    "fun_fact": "Cairo is the largest city in the Arab world",
+    "trivia": [
+      "The city is nicknamed 'The City of a Thousand Minarets'",
+      "Cairo is one of the oldest cities in the world"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxDYWlyb3xlbnwwfHx8fDE3NDA5ODQxODB8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "clues": [
+      "Famous for its skyline and Victoria Harbour",
+      "Known for its bustling street markets"
+    ],
+    "fun_fact": "Hong Kong has the most skyscrapers in the world, surpassing even New York City",
+    "trivia": [
+      "The city has the most Rolls Royce cars per capita in the world",
+      "Hong Kong has the highest average IQ of any country or territory in the world"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1576788369575-4ab045b9287e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxIb25nJTIwS29uZ3xlbnwwfHx8fDE3NDA5ODQxODB8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "CN Tower",
+      "Ripley's Aquarium of Canada"
+    ],
+    "fun_fact": "Toronto is the most populous city in Canada.",
+    "trivia": [
+      "The city is known for its diverse food scene.",
+      "Toronto is home to the Toronto Raptors, 2019 NBA Champions."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1517935706615-2717063c2225?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxUb3JvbnRvfGVufDB8fHx8MTc0MDk4NDE4MHww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "clues": [
+      "Famous for Stanley Park",
+      "Hosted the Winter Olympics in 2010"
+    ],
+    "fun_fact": "Vancouver is one of the most ethnically diverse cities in Canada.",
+    "trivia": [
+      "Vancouver has the mildest climate in Canada",
+      "It is surrounded by mountains and water."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1559511260-66a654ae982a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxWYW5jb3V2ZXJ8ZW58MHx8fHwxNzQwOTg0MTgwfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "French-speaking population",
+      "Poutine is a popular dish"
+    ],
+    "fun_fact": "Montreal is the second-largest French-speaking city in the world after Paris.",
+    "trivia": [
+      "Montreal hosted the 1976 Summer Olympics",
+      "The city has a vibrant music and arts scene"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1559682468-a6a29e7d9517?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNb250cmVhbHxlbnwwfHx8fDE3NDA5ODQxODB8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "Kremlin",
+      "Red Square"
+    ],
+    "fun_fact": "Moscow is the largest city in Russia and one of the largest cities in Europe.",
+    "trivia": [
+      "Moscow is home to the famous Bolshoi Theatre",
+      "The Moscow Metro is one of the busiest metro systems in the world"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1513326738677-b964603b136d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNb3Njb3d8ZW58MHx8fHwxNzQwOTg0MTgwfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "St. Petersburg",
+    "country": "Russia",
+    "clues": [
+      "The city is known for its beautiful architecture and canals",
+      "It was the capital of Russia for over 200 years"
+    ],
+    "fun_fact": "St. Petersburg is often called the 'Venice of the North' due to its numerous canals and bridges",
+    "trivia": [
+      "The city was founded by Tsar Peter the Great in 1703",
+      "St. Petersburg was known as Leningrad during the Soviet era"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1548834925-e48f8a27ae6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTdC4lMjBQZXRlcnNidXJnfGVufDB8fHx8MTc0MDg2MDgyM3ww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "Design capital of the world",
+      "Located on the shore of the Gulf of Finland"
+    ],
+    "fun_fact": "Helsinki is one of the coldest capital cities in the world",
+    "trivia": [
+      "Helsinki is known for its saunas",
+      "Home to the famous Sibelius Monument"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1538332576228-eb5b4c4de6f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxIZWxzaW5raXxlbnwwfHx8fDE3NDA4NTY3NzJ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "Known as the 'Venice of the North' due to its many waterways and bridges",
+      "Home to the Nobel Prize awards ceremony"
+    ],
+    "fun_fact": "Stockholm is built on 14 islands connected by 57 bridges.",
+    "trivia": [
+      "The Stockholm metro system is known for its artistic station designs",
+      "The Vasa Museum in Stockholm is home to a fully intact 17th-century ship"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1630772063386-f363836989cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTdG9ja2hvbG18ZW58MHx8fHwxNzQwOTg0MTgxfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "The Little Mermaid statue",
+      "Tivoli Gardens"
+    ],
+    "fun_fact": "Copenhagen is known as the 'biking capital of the world' with more bicycles than people",
+    "trivia": [
+      "Copenhagen is home to the oldest amusement park in the world - Bakken",
+      "The city is famous for its Danish pastries called 'wienerbr\u00f8d'"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxDb3BlbmhhZ2VufGVufDB8fHx8MTc0MDk4NDE4MXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "Viking Ship Museum",
+      "Holmenkollen Ski Museum"
+    ],
+    "fun_fact": "Oslo is known as the capital of Norway and the cultural, scientific, economic, and governmental center of the country.",
+    "trivia": [
+      "Oslo is one of the fastest-growing capitals in Europe",
+      "The Nobel Peace Prize is awarded in Oslo every year"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1433757741270-94a3bcadc2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxPc2xvfGVufDB8fHx8MTc0MDk4NDE4Mnww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "clues": [
+      "Known as the 'Pearl of the Adriatic'",
+      "Surrounded by impressive stone walls"
+    ],
+    "fun_fact": "Dubrovnik has been chosen as the filming location for the popular TV series Game of Thrones",
+    "trivia": [
+      "Dubrovnik was founded in the 7th century",
+      "The Old Town of Dubrovnik is a UNESCO World Heritage Site"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1555990793-da11153b2473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxEdWJyb3ZuaWt8ZW58MHx8fHwxNzQwOTg0MTgyfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "clues": [
+      "City of Sails",
+      "Sky Tower"
+    ],
+    "fun_fact": "Auckland has more boats per capita than any other city in the world.",
+    "trivia": [
+      "Auckland is built on a field of volcanoes",
+      "It is the largest Polynesian city in the world."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxBdWNrbGFuZHxlbnwwfHx8fDE3NDA4NjA1NzZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "Northernmost capital city in the world",
+      "Known for its geothermal hot springs"
+    ],
+    "fun_fact": "Reykjavik is powered entirely by renewable energy sources",
+    "trivia": [
+      "The name Reykjavik translates to 'Smoky Bay'",
+      "Reykjavik is home to the world's oldest parliament, the Althing"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1630316710923-60d1c6935503?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxSZXlramF2aWt8ZW58MHx8fHwxNzQwOTg0MTgyfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "Capital city of Vietnam",
+      "Known for its rich history and cultural heritage"
+    ],
+    "fun_fact": "Hanoi is home to the world's largest ceramic mosaic, the Hanoi Ceramic Mosaic Mural",
+    "trivia": [
+      "Hanoi is over 1,000 years old",
+      "The city has a mix of French colonial architecture and traditional Vietnamese buildings"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1509030450996-dd1a26dda07a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxIYW5vaXxlbnwwfHx8fDE3NDA5ODQxODJ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "It is the capital and largest city of Mexico",
+      "It was originally built by the Aztecs on an island in Lake Texcoco"
+    ],
+    "fun_fact": "Mexico City is built on top of the ruins of the Aztec capital of Tenochtitlan",
+    "trivia": [
+      "Mexico City is one of the oldest continuously inhabited cities in the Americas",
+      "It is one of the highest capitals in the world at an altitude of 2,240 meters (7,350 feet)"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1574493264149-87880133a2ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNZXhpY28lMjBDaXR5fGVufDB8fHx8MTc0MDk4NDE4Mnww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "clues": [
+      "Majorelle Garden",
+      "Jemaa el-Fnaa square"
+    ],
+    "fun_fact": "Marrakech is known as the 'Red City' due to its distinct red sandstone buildings.",
+    "trivia": [
+      "Marrakech was founded in 1062 by the Almoravid dynasty",
+      "The city has a thriving arts and culture scene with many galleries and museums"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNYXJyYWtlY2h8ZW58MHx8fHwxNzQwOTg0MTgzfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "clues": [
+      "Nairobi is the capital and largest city of Kenya",
+      "It is known as the 'Green City in the Sun'"
+    ],
+    "fun_fact": "It is one of the few cities in the world with a national park within its borders.",
+    "trivia": [
+      "Nairobi is the only city in the world with a national park within its boundaries",
+      "It is the largest city between Johannesburg and Cairo"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1611348524140-53c9a25263d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxOYWlyb2JpfGVufDB8fHx8MTc0MDk4NDE4M3ww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "Gateway of India",
+      "Bollywood"
+    ],
+    "fun_fact": "Mumbai is home to the largest film industry in the world, Bollywood.",
+    "trivia": [
+      "Mumbai was originally called Bombay",
+      "It is the financial capital of India."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNdW1iYWl8ZW58MHx8fHwxNzQwOTg0MTgzfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "clues": [
+      "Gold mining history",
+      "Apartheid Museum"
+    ],
+    "fun_fact": "Johannesburg is the largest city in South Africa by population.",
+    "trivia": [
+      "Johannesburg is commonly referred to as Jo'burg or Jozi.",
+      "The city is one of the 50 largest urban areas in the world."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1636706519609-988babca3dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxKb2hhbm5lc2J1cmd8ZW58MHx8fHwxNzQwOTg0MTgzfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "clues": [
+      "Home to the Red Fort",
+      "Has a bustling street food scene"
+    ],
+    "fun_fact": "Delhi has been continuously inhabited since the 6th century BC",
+    "trivia": [
+      "Delhi is the capital of India",
+      "It is one of the oldest cities in the world"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1587474260584-136574528ed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxEZWxoaXxlbnwwfHx8fDE3NDA4NjM1NDN8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "clues": [
+      "City of Joy",
+      "Howrah Bridge"
+    ],
+    "fun_fact": "Kolkata is home to the oldest functioning electric tram system in Asia.",
+    "trivia": [
+      "Kolkata was the capital of British India until 1911.",
+      "The famous poet Rabindranath Tagore was born in Kolkata."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1571679654681-ba01b9e1e117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxLb2xrYXRhfGVufDB8fHx8MTc0MDg2MzU0Nnww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Bali",
+    "country": "Indonesia",
+    "clues": [
+      "Island known for its lush rice terraces",
+      "Famous for its temples and vibrant arts scene"
+    ],
+    "fun_fact": "Bali is the only Hindu-majority province in Indonesia",
+    "trivia": [
+      "Bali is often referred to as the 'Island of the Gods'",
+      "Bali is a popular destination for yoga and wellness retreats"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1573790387438-4da905039392?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxCYWxpfGVufDB8fHx8MTc0MDk4NDE4M3ww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "clues": [
+      "Ancient temples",
+      "Night markets"
+    ],
+    "fun_fact": "Chiang Mai is known as the 'Rose of the North' due to its beautiful flowers and gardens.",
+    "trivia": [
+      "Chiang Mai was founded in 1296 as the capital of the Lanna Kingdom",
+      "It is famous for its annual Yi Peng lantern festival."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1578157695179-d7b7ddeb2f53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxDaGlhbmclMjBNYWl8ZW58MHx8fHwxNzQwODYzNTQ3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Phuket",
+    "country": "Thailand",
+    "clues": [
+      "famous for its stunning beaches",
+      "known for vibrant nightlife"
+    ],
+    "fun_fact": "Phuket is the largest island in Thailand",
+    "trivia": [
+      "Thailand's largest island",
+      "Popular destination for water sports and scuba diving"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxQaHVrZXR8ZW58MHx8fHwxNzQwOTg0MTg0fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Cancun",
+    "country": "Mexico",
+    "clues": [
+      "Turquoise waters",
+      "White sandy beaches"
+    ],
+    "fun_fact": "Cancun was originally a small fishing village until the 1970s when it was developed into a tourist destination.",
+    "trivia": [
+      "Cancun is located in the eastern part of Mexico's Yucatan Peninsula",
+      "The name Cancun is derived from the Mayan word 'kan kun' which means 'nest of snakes'."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1570737543098-0983d88f796d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxDYW5jdW58ZW58MHx8fHwxNzQwOTg0MTg0fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Honolulu",
+    "country": "United States",
+    "clues": [
+      "Famous for Waikiki Beach",
+      "Capital of Hawaii"
+    ],
+    "fun_fact": "Honolulu is the only place in the U.S. that has a royal palace.",
+    "trivia": [
+      "Honolulu is the southernmost major U.S. city",
+      "Honolulu is known for its vibrant arts scene."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1547537352-ae90c682877e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxIb25vbHVsdXxlbnwwfHx8fDE3NDA4NjQzNTV8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan",
+    "clues": [
+      "Home to numerous UNESCO World Heritage Sites",
+      "Known for its traditional tea houses and geisha entertainment"
+    ],
+    "fun_fact": "Kyoto was the capital of Japan for over 1000 years",
+    "trivia": [
+      "Kyoto has over 1600 Buddhist temples and 400 Shinto shrines",
+      "The famous Gion Matsuri festival takes place in Kyoto every July"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxLeW90b3xlbnwwfHx8fDE3NDA5ODQxODR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Miami",
+    "country": "United States",
+    "clues": [
+      "Known for its vibrant nightlife",
+      "Famous for its beautiful beaches"
+    ],
+    "fun_fact": "Miami is the only major U.S. city founded by a woman",
+    "trivia": [
+      "Miami is home to the largest collection of Art Deco architecture in the world",
+      "Miami Beach is actually separate from the city of Miami"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "New Orleans",
+    "country": "United States",
+    "clues": [
+      "French Quarter",
+      "Mardi Gras"
+    ],
+    "fun_fact": "New Orleans is known for its distinct Creole and Cajun cuisine",
+    "trivia": [
+      "New Orleans is home to the oldest continuously operating streetcar in the world",
+      "The city is famous for its jazz music scene"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1544078042-81e5cc35e72a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxOZXclMjBPcmxlYW5zfGVufDB8fHx8MTc0MDk4NDE4NXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Las Vegas",
+    "country": "United States",
+    "clues": [
+      "Famous for its vibrant nightlife and entertainment",
+      "Home to numerous casinos and luxury hotels"
+    ],
+    "fun_fact": "Las Vegas is also known as the 'Entertainment Capital of the World'",
+    "trivia": [
+      "The Las Vegas Strip is a stretch of South Las Vegas Boulevard known for its concentration of resort hotels and casinos",
+      "The iconic 'Welcome to Fabulous Las Vegas' sign was designed by Betty Willis in 1959"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Chicago",
+    "country": "United States",
+    "clues": [
+      "The city is known for its deep-dish pizza",
+      "Home to the Chicago Bulls basketball team"
+    ],
+    "fun_fact": "Chicago is home to the first skyscraper ever built in 1885.",
+    "trivia": [
+      "The city is also known as the Windy City",
+      "The Chicago River is famously dyed green for St. Patrick's Day"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "clues": [
+      "Home to Walt Disney World Resort",
+      "Known for its theme parks"
+    ],
+    "fun_fact": "Orlando has more than 100 lakes within its city limits",
+    "trivia": [
+      "Orlando is the most visited tourist destination in the United States",
+      "The city is nicknamed 'The City Beautiful'"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1597466599360-3b9775841aec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxPcmxhbmRvfGVufDB8fHx8MTc0MDg2NTI3N3ww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "clues": [
+      "White City",
+      "Mediterranean beaches"
+    ],
+    "fun_fact": "Known as the 'City that Never Sleeps' due to its vibrant nightlife",
+    "trivia": [
+      "Tel Aviv is home to more than 4,000 Bauhaus-style buildings",
+      "The city was founded in 1909 as a suburb of the ancient port city of Jaffa"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "San Francisco",
+    "country": "United States",
+    "clues": [
+      "Golden Gate Bridge",
+      "Alcatraz Island"
+    ],
+    "fun_fact": "San Francisco has the second largest Chinatown outside of Asia.",
+    "trivia": [
+      "The city is known for its foggy weather.",
+      "The cable car system is the last manually operated cable car system in the world."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Washington DC",
+    "country": "United States",
+    "clues": [
+      "Home to the White House",
+      "Has landmarks such as the Lincoln Memorial and Capitol Building"
+    ],
+    "fun_fact": "Washington DC was established as the capital of the United States in 1790",
+    "trivia": [
+      "The Washington Monument is the tallest structure in DC",
+      "The city was named after George Washington, the first President of the United States"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "clues": [
+      "Known for its financial institutions and banking sector",
+      "Located at the northwestern tip of Lake Zurich"
+    ],
+    "fun_fact": "Zurich is consistently ranked as one of the cities with the highest quality of life in the world",
+    "trivia": [
+      "Zurich is home to the famous Bahnhofstrasse, one of the world's most expensive and exclusive shopping avenues",
+      "The official language spoken in Zurich is Swiss German"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "Castle Hill",
+      "Chain Bridge"
+    ],
+    "fun_fact": "Budapest is known as the 'City of Spas' due to its numerous thermal baths.",
+    "trivia": [
+      "Budapest is actually made up of two separate cities, Buda and Pest, divided by the Danube River.",
+      "The Hungarian Parliament Building is one of the largest in Europe."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Krakow",
+    "country": "Poland",
+    "clues": [
+      "Home to the Wawel Castle",
+      "Known for its historic Old Town"
+    ],
+    "fun_fact": "Krakow is one of the oldest cities in Poland and has been a UNESCO World Heritage Site since 1978",
+    "trivia": [
+      "The city was the capital of Poland from 1038 to 1596",
+      "Krakow is famous for its annual Christmas market in the Main Square"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "clues": [
+      "Pizza originated here",
+      "Home to the ruins of Pompeii"
+    ],
+    "fun_fact": "Has the largest historic city center in Europe",
+    "trivia": [
+      "Has a strong tradition of street food",
+      "Famous for its Neapolitan ice cream"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1590663964384-e3bfac60bed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxOYXBsZXN8ZW58MHx8fHwxNzQwODYxOTU1fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "clues": [
+      "Home to the famous Edinburgh Castle",
+      "Hosts the annual Edinburgh Festival Fringe"
+    ],
+    "fun_fact": "Edinburgh is known as the Athens of the North due to its neoclassical architecture and intellectual heritage",
+    "trivia": [
+      "The Royal Mile is a historic street that connects Edinburgh Castle and the Palace of Holyroodhouse",
+      "Edinburgh has more listed buildings than anywhere in the world"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "clues": [
+      "UNESCO World Heritage Site",
+      "Famous for vintage cars and colorful buildings"
+    ],
+    "fun_fact": "Havana is the largest city in the Caribbean",
+    "trivia": [
+      "Havana was founded in 1519 by the Spanish",
+      "The city is known for its lively music and dance scene"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "clues": [
+      "Known for its vibrant arts scene",
+      "Famous for its laneways and street art"
+    ],
+    "fun_fact": "Melbourne is considered the coffee capital of Australia with a thriving cafe culture.",
+    "trivia": [
+      "Melbourne was once the capital city of Australia",
+      "It is home to one of the largest tram networks in the world"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Santorini",
+    "country": "Greece",
+    "clues": [
+      "White-washed buildings",
+      "Stunning sunsets"
+    ],
+    "fun_fact": "Santorini is actually a volcanic island formed from a massive volcanic eruption",
+    "trivia": [
+      "Santorini is also known as Thira",
+      "The island was the site of one of the largest volcanic eruptions in recorded history"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "clues": [
+      "Osaka Castle",
+      "Dotonbori Street"
+    ],
+    "fun_fact": "Osaka is known as the 'Nation's Kitchen' due to its food culture.",
+    "trivia": [
+      "Osaka is home to the Universal Studios Japan theme park.",
+      "The Osaka Aquarium Kaiyukan is one of the largest aquariums in the world."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Siem Reap",
+    "country": "Cambodia",
+    "clues": [
+      "Home to the famous Angkor Wat temple complex",
+      "Located near the Tonle Sap lake"
+    ],
+    "fun_fact": "Siem Reap means 'Defeat of Siam' which refers to the victory of the Khmer Empire over the Kingdom of Siam in the 16th century",
+    "trivia": [
+      "Siem Reap is a popular tourist destination in Southeast Asia",
+      "The city has a vibrant nightlife scene"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1569668723493-80d82b05bad7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTaWVtJTIwUmVhcHxlbnwwfHx8fDE3NDA4NTY4MDl8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "Royal Castle",
+      "Old Town Market Place"
+    ],
+    "fun_fact": "Warsaw has more green spaces per resident than any other European city.",
+    "trivia": [
+      "Warsaw's Old Town is a UNESCO World Heritage site",
+      "Warsaw was almost completely destroyed during World War II and has since been meticulously reconstructed."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Antalya",
+    "country": "Turkey",
+    "clues": [
+      "Home to beautiful beaches",
+      "Known for ancient ruins"
+    ],
+    "fun_fact": "Antalya is the largest Turkish city on the Mediterranean coast.",
+    "trivia": [
+      "Antalya was founded by King Attalos II of Pergamon in 150 BC",
+      "The city has a rich history dating back to ancient times."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1585338475469-b02ff0ec409c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxBbnRhbHlhfGVufDB8fHx8MTc0MDg2MTk1OXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Amman",
+    "country": "Jordan",
+    "clues": [
+      "The city was known as Philadelphia during the Roman period",
+      "Amman is one of the oldest continuously inhabited cities in the world"
+    ],
+    "fun_fact": "Amman is one of the most liberal and westernized cities in the Middle East",
+    "trivia": [
+      "Amman is built on seven hills",
+      "The city has a mix of ancient ruins and modern architecture"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Jerusalem",
+    "country": "Israel",
+    "clues": [
+      "Western Wall",
+      "Dome of the Rock"
+    ],
+    "fun_fact": "Jerusalem is one of the oldest cities in the world, with a history dating back to 4000 years.",
+    "trivia": [
+      "Jerusalem is considered a holy city by three major religions - Judaism, Christianity, and Islam.",
+      "It is home to the Church of the Holy Sepulchre, a major pilgrimage site for Christians."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1529079875474-0a66a1f176d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxKZXJ1c2FsZW18ZW58MHx8fHwxNzQwODYxMDI3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Cusco",
+    "country": "Peru",
+    "clues": [
+      "Former capital of the Inca Empire",
+      "Gateway to Machu Picchu"
+    ],
+    "fun_fact": "Cusco was declared a UNESCO World Heritage Site in 1983",
+    "trivia": [
+      "Cusco was once known as the belly button of the world",
+      "The city has a unique blend of Inca and Spanish architecture"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "clues": [
+      "Known for its beautiful beaches",
+      "Home to the Legislative Palace"
+    ],
+    "fun_fact": "Montevideo is the southernmost capital city in the Americas",
+    "trivia": [
+      "Montevideo was founded by the Spanish in the early 18th century",
+      "The city has a strong tradition of tango music and dance"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1583270425012-1de82718620e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxNb250ZXZpZGVvfGVufDB8fHx8MTc0MDg2NzA0NXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Fez",
+    "country": "Morocco",
+    "clues": [
+      "Ancient Medina with narrow labyrinthine streets",
+      "Famous for leather tanneries"
+    ],
+    "fun_fact": "Fez is the oldest imperial city in Morocco and was founded in the 9th century",
+    "trivia": [
+      "Fez is a UNESCO World Heritage Site",
+      "It is known for its traditional artisan crafts such as pottery and carpets"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "Capital city of Peru",
+      "Located on the Pacific coast"
+    ],
+    "fun_fact": "Lima is known for its delicious cuisine and has been named the 'Gastronomic Capital of Latin America'",
+    "trivia": [
+      "Lima was founded by Spanish conquistador Francisco Pizarro in 1535",
+      "The historic center of Lima is a UNESCO World Heritage Site"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Monte Carlo",
+    "country": "Monaco",
+    "clues": [
+      "Famous for its luxurious casinos",
+      "Hosts the prestigious Monaco Grand Prix"
+    ],
+    "fun_fact": "Monte Carlo is known for its high-end fashion boutiques and luxury hotels",
+    "trivia": [
+      "The Monte Carlo Casino was featured in several James Bond movies",
+      "Monaco is the second smallest country in the world after Vatican City"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Oia",
+    "country": "Greece",
+    "clues": [
+      "stunning sunsets",
+      "white-washed buildings"
+    ],
+    "fun_fact": "Oia is famous for its iconic blue-domed churches",
+    "trivia": [
+      "Oia is located on the island of Santorini",
+      "The town is a popular tourist destination known for its picturesque views"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "San Miguel de Allende",
+    "country": "Mexico",
+    "clues": [
+      "Colonial architecture",
+      "Historic cobblestone streets"
+    ],
+    "fun_fact": "It was declared a UNESCO World Heritage site in 2008",
+    "trivia": [
+      "San Miguel de Allende is known for its vibrant arts scene",
+      "The city hosts the annual San Miguel Writers' Conference"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Queenstown",
+    "country": "New Zealand",
+    "clues": [
+      "Adventure capital of the world",
+      "Stunning landscapes"
+    ],
+    "fun_fact": "Queenstown is known for its adrenaline-pumping activities like bungee jumping and jet boating.",
+    "trivia": [
+      "Queenstown is located on the shores of Lake Wakatipu",
+      "It is a popular filming location for many Hollywood movies"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "clues": [
+      "Medieval Old Town",
+      "Tallinn Song Festival Grounds"
+    ],
+    "fun_fact": "Tallinn is known for its well-preserved medieval architecture and cobblestone streets.",
+    "trivia": [
+      "Tallinn is the capital and largest city of Estonia.",
+      "The city became a UNESCO World Heritage Site in 1997."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Suzhou",
+    "country": "China",
+    "clues": [
+      "Known for its classical gardens",
+      "Famous for its silk production"
+    ],
+    "fun_fact": "Suzhou is often referred to as the Venice of the East due to its many canals and bridges",
+    "trivia": [
+      "Suzhou's gardens are recognized as a UNESCO World Heritage Site",
+      "The city has a history of over 2,500 years"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Valletta",
+    "country": "Malta",
+    "clues": [
+      "Home to St. John's Co-Cathedral",
+      "Capital city of Malta"
+    ],
+    "fun_fact": "Valletta is a UNESCO World Heritage Site",
+    "trivia": [
+      "Valletta was built by the Knights of St. John in the 16th century",
+      "Valletta is one of the smallest capital cities in Europe"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Verona",
+    "country": "Italy",
+    "clues": [
+      "Home to Shakespeare's Romeo and Juliet",
+      "Located in the Veneto region"
+    ],
+    "fun_fact": "Verona has been named a UNESCO World Heritage Site for its urban structure and architecture.",
+    "trivia": [
+      "Verona is known for its annual opera festival in the Roman amphitheater",
+      "The city is famous for its well-preserved ancient Roman architecture"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "clues": [
+      "Windy city",
+      "Capital city"
+    ],
+    "fun_fact": "Wellington is known as the world's windiest city, with an average wind speed of 27 km/h.",
+    "trivia": [
+      "The Lord of the Rings trilogy was filmed in and around Wellington.",
+      "Wellington is the southernmost capital city of a sovereign state."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "clues": [
+      "Narikala Fortress",
+      "Sulfur Baths"
+    ],
+    "fun_fact": "Tbilisi is known for its diverse architecture, including a mix of medieval, neoclassical, and modernist buildings.",
+    "trivia": [
+      "Tbilisi is one of the oldest cities in the world, with a history dating back over 1,500 years.",
+      "The name Tbilisi comes from the Georgian word 'tbili' which means 'warm', due to the city's warm springs."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Yangon",
+    "country": "Myanmar",
+    "clues": [
+      "Shwedagon Pagoda",
+      "Inya Lake"
+    ],
+    "fun_fact": "Yangon is home to the largest number of colonial-era buildings in Southeast Asia.",
+    "trivia": [
+      "Yangon was once known as Rangoon",
+      "The city has a vibrant street food scene."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Seville",
+    "country": "Spain",
+    "clues": [
+      "Home to the Alcazar Palace",
+      "Famous for Flamenco dancing"
+    ],
+    "fun_fact": "Seville Cathedral is the largest Gothic cathedral in the world",
+    "trivia": [
+      "Seville is the setting for the opera Carmen",
+      "The city hosted the World Expo in 1992"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Varanasi",
+    "country": "India",
+    "clues": [
+      "Oldest living city in the world",
+      "Sacred city for Hindus"
+    ],
+    "fun_fact": "Varanasi is known for its ghats along the Ganges River where people come to perform religious rituals and ceremonies",
+    "trivia": [
+      "Varanasi is also known as Benares",
+      "It is believed to be one of the oldest continuously inhabited cities in the world"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Wroclaw",
+    "country": "Poland",
+    "clues": [
+      "The city is known for its beautiful Market Square",
+      "It has over 100 bridges connecting its islands"
+    ],
+    "fun_fact": "Wroclaw is sometimes referred to as the 'Venice of Poland' due to its numerous bridges and islands",
+    "trivia": [
+      "Wroclaw was named the European Capital of Culture in 2016",
+      "The city has a population of over 600,000 people"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Machu Picchu",
+    "country": "Peru",
+    "clues": [
+      "Lost city of the Incas",
+      "Located on a mountain ridge"
+    ],
+    "fun_fact": "Built in the 15th century and abandoned during the Spanish Conquest",
+    "trivia": [
+      "A UNESCO World Heritage Site",
+      "One of the New Seven Wonders of the World"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "clues": [
+      "Capital city of Qatar",
+      "Located on the coast of the Persian Gulf"
+    ],
+    "fun_fact": "Doha is known for its futuristic architecture and luxury shopping",
+    "trivia": [
+      "Doha is the host city for the 2022 FIFA World Cup",
+      "The city's skyline is dominated by the iconic Torch Tower"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1507904139316-3c7422a97a49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxEb2hhfGVufDB8fHx8MTc0MDg2MTk1OXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "New York City",
+    "country": "United States",
+    "clues": [
+      "The Statue of Liberty",
+      "Times Square"
+    ],
+    "fun_fact": "New York City is known as the city that never sleeps.",
+    "trivia": [
+      "New York City is made up of five boroughs: Manhattan, Brooklyn, Queens, The Bronx, and Staten Island.",
+      "The Empire State Building was once the tallest building in the world."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1543716091-a840c05249ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxOZXclMjBZb3JrJTIwQ2l0eXxlbnwwfHx8fDE3NDA4NTk2OTR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "Home to the tallest building in Latin America, the Gran Torre Santiago",
+      "Surrounded by the Andes mountains"
+    ],
+    "fun_fact": "Santiago is one of the largest cities in South America",
+    "trivia": [
+      "The city was founded in 1541 by the Spanish conquistador Pedro de Valdivia",
+      "Santiago is known for its vibrant street art scene"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Zanzibar",
+    "country": "Tanzania",
+    "clues": [
+      "Famous for its spice trade history",
+      "Known for its stunning beaches"
+    ],
+    "fun_fact": "Zanzibar is also known as the Spice Island",
+    "trivia": [
+      "The name Zanzibar is derived from a Persian word meaning 'coast of blacks'",
+      "Zanzibar was a major trading hub for spices, ivory, and slaves in the 19th century"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "clues": [
+      "Smallest country in the world",
+      "Home of the Pope"
+    ],
+    "fun_fact": "Vatican City is an independent city-state enclaved within Rome, Italy",
+    "trivia": [
+      "The Vatican Museums are home to one of the world's greatest art collections",
+      "The population of Vatican City is around 800 people"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Phoenix",
+    "country": "United States",
+    "clues": [
+      "Valley of the Sun",
+      "Fifth-most populous city in the US"
+    ],
+    "fun_fact": "Phoenix is the hottest major city in the United States, with temperatures regularly exceeding 100\u00b0F in the summer.",
+    "trivia": [
+      "Phoenix is the capital and largest city of the state of Arizona",
+      "The city was founded in 1868 and incorporated in 1881"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1589046207215-b5ee3097bafc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxQaG9lbml4fGVufDB8fHx8MTc0MDg2Nzg2NXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Houston",
+    "country": "United States",
+    "clues": [
+      "NASA Space Center",
+      "Houston Livestock Show and Rodeo"
+    ],
+    "fun_fact": "Houston is the fourth largest city in the United States.",
+    "trivia": [
+      "The city is home to the largest medical center in the world.",
+      "Houston's Museum District attracts millions of visitors each year."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Philadelphia",
+    "country": "United States",
+    "clues": [
+      "Birthplace of America's independence",
+      "Home of the Liberty Bell"
+    ],
+    "fun_fact": "Philadelphia is home to the nation's first zoo, the Philadelphia Zoo, which opened in 1874.",
+    "trivia": [
+      "Philadelphia was the nation's capital before Washington, D.C.",
+      "The city is known for its iconic Philly cheesesteak sandwich."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Dallas",
+    "country": "United States",
+    "clues": [
+      "Reunion Tower",
+      "The Sixth Floor Museum at Dealey Plaza"
+    ],
+    "fun_fact": "Dallas is home to the largest urban arts district in the United States.",
+    "trivia": [
+      "Dallas is one of the fastest-growing cities in the United States.",
+      "The Dallas Cowboys are known as 'America's Team'."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "San Jose",
+    "country": "United States",
+    "clues": [
+      "Silicon Valley",
+      "Tech Innovation Hub"
+    ],
+    "fun_fact": "San Jose has the highest median household income of any city in the United States with a population over 300,000",
+    "trivia": [
+      "San Jose was founded in 1777 as the first civilian town in Spanish Alta California",
+      "San Jose is the largest city in Northern California"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1583997052287-71c76c25ddac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTYW4lMjBKb3NlfGVufDB8fHx8MTc0MDg2Nzg2Nnww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "San Diego",
+    "country": "United States",
+    "clues": [
+      "Known for its beautiful beaches",
+      "Home to the famous San Diego Zoo"
+    ],
+    "fun_fact": "San Diego has more than 70 miles of coastline",
+    "trivia": [
+      "San Diego is nicknamed America's Finest City",
+      "The first European to visit the area was Portuguese explorer Juan Rodr\u00edguez Cabrillo in 1542"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Granada",
+    "country": "Spain",
+    "clues": [
+      "The Alhambra",
+      "Sierra Nevada mountains"
+    ],
+    "fun_fact": "Granada is home to the Alhambra, a stunning palace and fortress complex that is a UNESCO World Heritage site.",
+    "trivia": [
+      "Granada is famous for its tapas culture where you get a free small dish with your drink at most bars.",
+      "The name Granada means 'pomegranate' in Spanish, and the fruit is a symbol of the city."
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "San Antonio",
+    "country": "United States",
+    "clues": [
+      "The Alamo is located here",
+      "Home to the River Walk"
+    ],
+    "fun_fact": "San Antonio is known for its vibrant mix of cultures, including Spanish, Mexican, and Western influences.",
+    "trivia": [
+      "San Antonio is the seventh-largest city in the United States",
+      "The city is home to the first museum of modern art in Texas"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Fort Worth",
+    "country": "United States",
+    "clues": [
+      "Cowboy culture",
+      "Stockyards National Historic District"
+    ],
+    "fun_fact": "Fort Worth is known as the 'City of Cowboys and Culture'",
+    "trivia": [
+      "Fort Worth is home to the world's first indoor rodeo",
+      "It is the fifth-largest city in Texas by population"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Charlotte",
+    "country": "United States",
+    "clues": [
+      "Home to the NASCAR Hall of Fame",
+      "Known for its banking industry"
+    ],
+    "fun_fact": "Charlotte is the largest city in North Carolina.",
+    "trivia": [
+      "The Bank of America Corporate Center is the tallest building in the city",
+      "Charlotte is nicknamed the Queen City"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1582555645330-9fa5f195e1ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxDaGFybG90dGV8ZW58MHx8fHwxNzQwODY3ODY2fDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Jacksonville",
+    "country": "United States",
+    "clues": [
+      "Home to the Jacksonville Jaguars NFL team",
+      "Located on the St. Johns River"
+    ],
+    "fun_fact": "Jacksonville is the largest city by land area in the contiguous United States",
+    "trivia": [
+      "The Jacksonville Landing is a popular shopping and dining area",
+      "The city's beaches attract tourists and surfers"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Columbus",
+    "country": "United States",
+    "clues": [
+      "Home to The Ohio State University",
+      "Named after explorer Christopher Columbus"
+    ],
+    "fun_fact": "Columbus is the largest city in Ohio and the 14th most populous city in the United States",
+    "trivia": [
+      "The Columbus Zoo and Aquarium is home to over 7,000 animals",
+      "The city has a vibrant arts and cultural scene"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Indianapolis",
+    "country": "United States",
+    "clues": [
+      "Home to the Indianapolis Motor Speedway",
+      "Known for hosting the Indy 500 race"
+    ],
+    "fun_fact": "Indianapolis is often referred to as the Racing Capital of the World",
+    "trivia": [
+      "The city's name is derived from the state name Indiana",
+      "The city has a vibrant arts and culture scene"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1579031151544-529281a75b18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxJbmRpYW5hcG9saXN8ZW58MHx8fHwxNzQwODcxOTYzfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Seattle",
+    "country": "United States",
+    "clues": [
+      "Space Needle",
+      "Pike Place Market"
+    ],
+    "fun_fact": "Seattle is home to the first Starbucks store ever opened.",
+    "trivia": [
+      "Seattle is known for its rainy weather.",
+      "The city is surrounded by water, mountains, and evergreen forests."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1502175353174-a7a70e73b362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTYyMzF8MHwxfHNlYXJjaHwxfHxTZWF0dGxlfGVufDB8fHx8MTc0MDg3MTk2M3ww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "city": "Austin",
+    "country": "United States",
+    "clues": [
+      "Live Music Capital of the World",
+      "Home to the University of Texas at Austin"
+    ],
+    "fun_fact": "Austin is known for its vibrant music scene and is host to the annual South by Southwest (SXSW) festival.",
+    "trivia": [
+      "The Congress Avenue Bridge is home to the largest urban bat colony in North America",
+      "Austin is the capital of Texas"
+    ],
+    "image_url": ""
+  },
+  {
+    "city": "Valencia",
+    "country": "Spain",
+    "clues": [
+      "City of Arts and Sciences",
+      "Paella originated here"
+    ],
+    "fun_fact": "Valencia is famous for its oranges",
+    "trivia": [
+      "Valencia was founded by the Romans",
+      "The Valencia Football Club is one of the oldest in Spain"
+    ],
+    "image_url": ""
+  }
+]

@@ -1,0 +1,245 @@
+/* CSS Variables for Light and Dark Modes */
+:root {
+  /* Light Mode Colors */
+  --bg-color-light: #ffffe0;           /* light yellow */
+  --header-bg-light: #ffcccb;          /* light red/pink */
+  --underline-light: #d4af37;          /* dark yellow underline */
+  --text-color-light: #333;
+  --option-initial: #d3d3d3;           /* light grey for options */
+  
+  /* Dark Mode Colors */
+  --bg-color-dark: #000;               /* black */
+  --header-bg-dark: #001f3f;           /* dark navy */
+  --underline-dark: #d4af37;           /* dark yellow underline */
+  --text-color-dark: #ddd;
+  
+  /* Common Variables */
+  --font-family: 'Roboto', sans-serif;
+  --button-font-size: 1.8em;
+  --button-padding: 15px 25px;
+}
+
+/* Global Styles & Borders */
+body {
+  font-family: var(--font-family);
+  margin: 0;
+  padding: 0;
+}
+body.light-mode {
+  background-color: var(--bg-color-light);
+  color: var(--text-color-light);
+  border: 4px solid #000; /* Bold black border in light mode */
+}
+body.dark-mode {
+  background-color: var(--bg-color-dark);
+  color: var(--text-color-dark);
+  border: 4px solid #444; /* Bold dark grey border in dark mode */
+}
+
+/* Fixed Static Panel: occupies 20% of viewport height */
+#static-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 20vh;
+  background-color: var(--option-initial);
+  border-bottom: 2px solid var(--underline-light);
+  z-index: 1100;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+body.dark-mode #static-panel {
+  background-color: var(--header-bg-dark);
+  border-bottom: 2px solid var(--underline-dark);
+}
+
+/* Static Panel Left, Center, Right */
+#static-left, #static-center, #static-right {
+  flex: 1;
+}
+#static-left {
+  text-align: left;
+}
+#static-center {
+  text-align: center;
+}
+#static-right {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-end;
+}
+
+/* Score Display */
+#score-display {
+  font-size: 1.8em;
+  font-weight: bold;
+}
+#score-details {
+  font-size: 0.8em;
+  margin-top: 5px;
+}
+
+/* Header styling within static panel */
+/* Header styling within static panel */
+header {
+  margin-top: 20px; /* Increased top margin for a cleaner gap */
+  padding: 0;
+}
+header h1 {
+  font-size: 3.5em;
+  margin: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+  white-space: nowrap; /* Ensure heading stays on one line */
+}
+header p#tagline {
+  font-size: 1.8em;
+  margin-top: 5px;
+  white-space: nowrap;
+}
+
+/* Main Game Area */
+main#game {
+  margin-top: 22vh; /* leave space for static panel */
+  padding: 20px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Clue & Image Container */
+#clue-image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#clues {
+  font-size: 2em;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+#image-container {
+  margin: 20px auto;
+}
+#image-container img {
+  max-width: 700px; /* larger horizontally */
+  max-height: 400px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Options Container: two columns at extreme left and right */
+#options-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+  margin-bottom: 20px;
+}
+.options-column {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Option Buttons: Wide to occupy full column */
+.option-btn {
+  width: 100%;
+  background-color: var(--option-initial);
+  color: #000;
+  font-size: var(--button-font-size);
+  font-weight: bold;
+  border: 1px solid #000;
+  padding: var(--button-padding);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.3);
+}
+.option-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 4px 4px 8px rgba(0,0,0,0.4);
+}
+.option-btn.correct {
+  background-color: #28a745 !important;
+}
+.option-btn.wrong {
+  background-color: #8b0000 !important;
+}
+body.light-mode .option-btn.wrong {
+  color: #ffffe0; /* light yellow for wrong option text in light mode */
+}
+body.dark-mode .option-btn.correct {
+  color: #000;
+}
+
+/* Feedback styling */
+#feedback {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  min-height: 60px;
+  font-weight: bold;
+}
+
+/* Next Button: full-width, yellow background */
+#nextBtn {
+  width: 100%;
+  padding: 15px 0;
+  font-size: 1.8em;
+  font-weight: bold;
+  background-color: #f1c40f;
+  color: #000;
+  border: 1px solid #000;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+#nextBtn:hover:enabled {
+  background-color: #d4ac0d;
+  transform: scale(1.05);
+}
+#nextBtn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Full-screen overlay for wrong answer cross animation */
+#cross-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1200;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+.cross-animation {
+  font-size: 12em;
+  color: #8b0000;
+  opacity: 0.8;
+  animation: fadeOut 2s ease-out forwards, shake 0.5s ease-in-out;
+}
+@keyframes fadeOut {
+  0% { opacity: 0.8; }
+  100% { opacity: 0; }
+}
+@keyframes shake {
+  0% { transform: translate(0, 0); }
+  25% { transform: translate(15px, 0); }
+  50% { transform: translate(0, 0); }
+  75% { transform: translate(-15px, 0); }
+  100% { transform: translate(0, 0); }
+}
+
+/* Allow vertical scrolling */
+html, body {
+  min-height: 100vh;
+  overflow-y: auto;
+}

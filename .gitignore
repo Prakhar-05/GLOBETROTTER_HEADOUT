@@ -1,0 +1,18 @@
+# Ignore environment file with sensitive data
+.env
+
+# Ignore virtual environment folder
+backend/venv/
+
+# Ignore compiled python files
+*.pyc
+__pycache__/
+
+# Ignore local settings if any
+local_settings.py
+
+# Optional: ignore database files (if using SQLite)
+*.sqlite3
+
+# Ignore logs and temporary files
+*.log

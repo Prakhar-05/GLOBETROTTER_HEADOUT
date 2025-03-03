@@ -1,0 +1,59 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Globetrotter Challenge</title>
+  <!-- Import Roboto from Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'game/style.css' %}">
+  <!-- Canvas-confetti for correct answer animation -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body class="light-mode">
+  <!-- Fixed Static Panel -->
+  <div id="static-panel">
+    <div id="static-left">
+      <div id="score-display">
+        Score: <span id="scoreValue">0</span> 💰
+        <div id="score-details">Correct: <span id="correctCount">0</span> | Wrong: <span id="wrongCount">0</span></div>
+      </div>
+    </div>
+    <div id="static-center">
+      <header>
+        <h1>GLOBETROTTER CHALLENGE</h1>
+        <p id="tagline">Guess the destination based on cryptic clues!</p>
+      </header>
+    </div>
+    <div id="static-right">
+      <button id="modeSwitch" title="Switch Mode">MODE</button>
+      <button id="challengeBtn" title="Challenge a Friend">Challenge a Friend</button>
+      <input type="text" id="username" placeholder="Enter Username">
+    </div>
+  </div>
+  
+  <!-- Main Game Area -->
+  <main id="game">
+    <div id="question-card">
+      <div id="clue-image-container">
+        <div id="clues"></div>
+        <div id="image-container"></div>
+      </div>
+      <div id="options-container">
+        <div class="options-column" id="left-options"></div>
+        <div class="options-column" id="right-options"></div>
+      </div>
+      <div id="feedback"></div>
+      <button id="nextBtn" onclick="nextQuestion()" disabled>Next</button>
+    </div>
+  </main>
+  
+  <!-- Full-screen overlay for wrong answer cross animation -->
+  <div id="cross-overlay"></div>
+  
+  <!-- Embed JSON data from view -->
+  <script id="destinations-data" type="application/json">{{ destinations_json|safe }}</script>
+  <script src="{% static 'game/app.js' %}"></script>
+</body>
+</html>
