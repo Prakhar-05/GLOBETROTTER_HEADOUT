@@ -8,18 +8,22 @@ ENV PYTHONUNBUFFERED=1
 # Set the working directory
 WORKDIR /app
 
-# Copy and install requirements first (this helps with caching)
+# Copy and install dependencies
 COPY requirements.txt /app/
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Copy the rest of the project
+# Copy everything from the root directory to /app (this keeps all files)
 COPY . /app/
 
-# Expose port 8000 for the Django development server
+# Set working directory to where manage.py is located
+WORKDIR /app/backend/globetrotter_project
+
+# Expose port 8000 for Django
 EXPOSE 8000
 
-# Run collectstatic (this collects all static files into STATIC_ROOT)
+# Collect static files
 RUN python manage.py collectstatic --noinput
 
-# Run migrations and start the Django development server
+# Run migrations and start Django server
 CMD ["sh", "-c", "python manage.py migrate && python manage.py runserver 0.0.0.0:8000"]
+s
