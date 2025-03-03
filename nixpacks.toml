@@ -1,0 +1,3 @@
+[build]
+# Specify that your project uses Docker.
+dockerfile = "backend/Dockerfile"
