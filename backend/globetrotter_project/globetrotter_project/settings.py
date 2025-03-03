@@ -136,7 +136,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
-    str(BASE_DIR / 'game' / 'static'),
+    BASE_DIR / 'game' / 'static' / 'game',
 ]
 
 STATIC_ROOT = BASE_DIR / 'staticfiles'
