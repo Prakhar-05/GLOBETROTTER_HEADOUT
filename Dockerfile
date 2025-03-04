@@ -24,4 +24,5 @@ RUN python backend/globetrotter_project/manage.py collectstatic --noinput
 # Expose port 8000 for Django
 EXPOSE 8000
 
-CMD ["sh", "-c", "python backend/globetrotter_project/manage.py migrate && gunicorn --chdir backend/globetrotter_project --bind 0.0.0.0:$PORT globetrotter_project.wsgi:application"]
+CMD ["sh", "-c", "python backend/globetrotter_project/manage.py migrate && gunicorn --chdir backend/globetrotter_project --bind 0.0.0.0:8000 globetrotter_project.wsgi:application"]
+
