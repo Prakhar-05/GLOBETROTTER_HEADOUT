@@ -11,18 +11,17 @@ WORKDIR /app
 # Install system dependencies (optional but useful for some packages)
 RUN apt-get update && apt-get install -y build-essential libpq-dev && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements and install dependencies
+# Install Python dependencies in a virtual environment
 COPY requirements.txt /app/
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
-# Copy the rest of the project
+# Copy project files after installing dependencies
 COPY . /app/
 
 # Collect static files
 RUN python backend/globetrotter_project/manage.py collectstatic --noinput
 
-# Expose a port for local usage (optional if relying on $PORT at runtime)
+# Expose port 8000 for Django
 EXPOSE 8000
 
-# Use $PORT environment variable for Gunicorn, and run migrations first
-CMD ["sh", "-c", "python backend/globetrotter_project/manage.py migrate && gunicorn --chdir backend/globetrotter_project --bind 0.0.0.0:$PORT globetrotter_project.wsgi:application"]
+CMD ["sh", "-c", "python backend/globetrotter_project/manage.py migrate && gunicorn --chdir backend/globetrotter_project --bind 0.0.0.0:8000 globetrotter_project.wsgi:application"]
