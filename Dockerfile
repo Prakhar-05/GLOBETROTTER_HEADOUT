@@ -18,9 +18,6 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 # Copy project files after installing dependencies
 COPY . /app/
 
-# Collect static files
-RUN python backend/globetrotter_project/manage.py collectstatic --noinput
-
 # Expose port 8000 for Django
 EXPOSE 8000
 
