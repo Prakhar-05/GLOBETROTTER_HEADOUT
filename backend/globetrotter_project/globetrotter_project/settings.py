@@ -11,7 +11,7 @@ load_dotenv()  # <-- Load environment variables from .env
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'django-insecure-tyem$c*y9xd1_wzysn0vg_+y^+4de1$&x7$s#h5c#gu#!c=b&*'
+SECRET_KEY = os.getenv("SECRET_KEY")
 
 # Set DEBUG from environment variable (default False for production)
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
