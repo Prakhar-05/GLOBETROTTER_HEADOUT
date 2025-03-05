@@ -1208,6 +1208,7 @@ It generates additional unique city names until the target is reached, using bot
 It then processes all destinations concurrently.
 Finally, it saves the enriched dataset to expanded_dataset.json.
 
+"""
 if __name__ == '__main__':
     # Load the original dataset from 'data.json'
     with open('data.json', 'r') as f:
@@ -1288,7 +1289,8 @@ if __name__ == '__main__':
     with open('expanded_dataset.json', 'w') as f:
         json.dump(processed_destinations, f, indent=2)
     
-    print("Dataset expansion complete. Check 'expanded_dataset.json' for the unique destinations.")
+    print("Dataset expansion complete. Check 'expanded_dataset.json' for the unique destinations.") 
+    """
 
 
 7) Custom Django Management Command (import_data.py) (C:\GLOBETROTTER\backend\globetrotter_project\game\management\commands)
